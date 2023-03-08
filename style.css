@@ -1,0 +1,8 @@
+body{background-color: beige;}
+h1{color:black;margin-top: 150px;}
+#location-input{width:350px;height:40px;margin-top: 40px;font-size: large;}
+#btn{width:100px;height:42px;font-size: medium;background-color: blue;color:white;border:none;border-radius: 5px;}
+.info{margin-top: 40px;}
+#temp-info{font-size:x-large;}
+#weather-info{font-size: x-large;margin-top: 20px;}
+#location-info{font-size: x-large;margin-top: 20px;}
